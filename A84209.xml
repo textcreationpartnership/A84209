@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact relation of Prince Rupert his marching out of Bristoll, the 11. of this instant Septemb. 1645. according to articles of agreement made betweene him and the Right Honourable, Sir Thomas Fairfax. With the manner how, and the place whither he is to goe, as how farre the Generall himselfe accompanied him, the number of his forces both horse and foot, of his wagons, and other particulars. Also what ordnance, arms, ammunition, and all other provisions which Sir Thomas found in the city, forts, and castle, fully exprest. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84209</idno>
+            <idno type="STC">Wing E3678</idno>
+            <idno type="STC">Thomason E302_3</idno>
+            <idno type="STC">ESTC R200274</idno>
+            <idno type="EEBO-CITATION">99861080</idno>
+            <idno type="PROQUEST">99861080</idno>
+            <idno type="VID">158735</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84209)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158735)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E302[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact relation of Prince Rupert his marching out of Bristoll, the 11. of this instant Septemb. 1645. according to articles of agreement made betweene him and the Right Honourable, Sir Thomas Fairfax. With the manner how, and the place whither he is to goe, as how farre the Generall himselfe accompanied him, the number of his forces both horse and foot, of his wagons, and other particulars. Also what ordnance, arms, ammunition, and all other provisions which Sir Thomas found in the city, forts, and castle, fully exprest. Published by authority.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright at the Kings head in the old Bayley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>18. Sept. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term>Bristol (England) --  History --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158735:1" rendition="simple:additions"/>
+            <p>An Exact RELATION OF Prince Rupert His marching out of BRISTOLL, the 11. of this inſtant Septemb. 1645. according to Articles of agreement made betweene him and the Right HONOURABLE, Sir Thomas Fairfax.</p>
+            <p>With the manner how, and the place whither he is to goe, as how farre the Generall himſelfe accompanied him, the number of his Forces both Horſe and Foot, of his Wagons, and other particulars.</p>
+            <p>Alſo what Ordnance, Arms, Ammunition, and all other Proviſions which Sir <hi>Thomas</hi> found in the City, Forts, and Caſtle, fully expreſt.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>LONDON, Printed for <hi>Iohn Wright</hi> at the Kings head in the old Bayley. 18. Sept. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:158735:2"/>
+            <head>A Letter ſent from <hi>Briſtoll</hi> to his friend in LONDON: Shewing the manner of Prince <hi>Ruperts</hi> marching from thence to <hi>Oxford.</hi>
+            </head>
+            <opener>
+               <dateline>Briſtoll <date>12. Septemb. 1645.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Eſterday according to the Articles, Prince <hi>Rupert</hi> marched out in this man<g ref="char:EOLhyphen"/>ner, having firſt drawne all his Foot into the Roy<g ref="char:EOLhyphen"/>all Fort and Caſtle, his Horſe ſtanding in the Greene under the Fort, within the Line, thoſe Wagons appointed for him being laden with his Baggage, in all not above eight.</p>
+            <p>Hee drew out part of his Foot and Horſe before his VVagons, and part following, Himſelfe next with his
+<pb n="2" facs="tcp:158735:3"/>Lifeguard of Firelocks came forth, all in Red Coats be<g ref="char:EOLhyphen"/>fore him, and his Lifeguard of Horſe following, accom<g ref="char:EOLhyphen"/>panied with ſome Lords, <hi>viz. Cromwell, Grandiſon, &amp;c.</hi> Colonell <hi>Hamonds</hi> Regiment of Foot ſtanding at the Port to receive the Keyes of the Fort and march in, Lieutenant Generall <hi>Cromwell,</hi> Colonell <hi>Montague,</hi> Colonel <hi>Rainsborough,</hi> and ſome other Officers waited at the Port of the Fort for his comming out, and waited upon him to the Generall, who ſtood with the Convoy of Horſe without the Line, and accompanied him over <hi>Durdum</hi> Downe, being almoſt two miles: The Prince was clad in Scarlet, very richly laid with ſilver Lace, mounted up<g ref="char:EOLhyphen"/>on a very gallant black Barbary Horſe; the Generall and the Prince rid together, the Generall giving the Prince the right hand all the way; the number of the Princes Foot was about 2000. The Horſe with the deſigned number of two hundred and fifty and the Lifeguard al<g ref="char:EOLhyphen"/>together, made about foure hundred: And I think there might be of Noblemen and Gentlemen at the leaſt three hundred more. The Prince upon the Greene then na<g ref="char:EOLhyphen"/>med the place to which he would march, which was to <hi>Oxford,</hi> and quartered at <hi>Weſtberry</hi> the laſt night: Colo<g ref="char:EOLhyphen"/>nell <hi>Butler</hi> with his Regiment, and Major <hi>Hemington</hi> with the Lieutenant Generals Regiment, waited on him as Convoy.</p>
+            <p>The Generall upon his returne viewed the Royall Fort which certainly is one of the braveſt Citadels in <hi>England,</hi> in it foure and twenty pieces mounted upon five Baſtions, Powder in quantity, Victuals in abundance of all ſorts, foureſcore or an hundred tunne of Beare, Bread ſufficient to ſerve almoſt one hundred thouſand men a day.</p>
+            <p>Upon the Line, Caſtle, and Forts, might bee in all
+<pb n="3" facs="tcp:158735:3"/>about two hundred pieces of Ordnance mounted, two or three hundred barrels of Powder, a great Magazine of Armes, ſome ſay three or foure thouſand, the City it ſelfe being the next to <hi>London</hi> in the Kingdom; all this ſucceſſe is the Lords doing, which ought to be marvel<g ref="char:EOLhyphen"/>lous in our eyes. VVhat is next to be done is now to be conſidered on; I hope God will counſell us for the beſt: VVe ſhall be very ſudden on motion, and then I ſhall give you a further accompt.</p>
+            <closer>
+               <signed>So Iremaine, &amp;c.</signed>
+            </closer>
+            <postscript>
+               <p>WE took Baſalisk warning piece which was loſt in <hi>Cornwall,</hi> with ſome other pieces alſo loſt there; ſo that at <hi>Naſeby</hi> and <hi>Bridgewa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er</hi> we have retaken all the Pieces the Earle of <hi>Eſſex</hi> loſt in <hi>Cornwall.</hi> There is left onely a Regiment of Foot in the Fort and Caſtle, by reaſon the Sickneſſe is much in the Towne; this day the Army removes to <hi>Caveſham</hi> and <hi>Penford,</hi> freſh Quarters free from ſickneſſe untill the Money come from <hi>Reading,</hi> and this place be ſetled. <hi>Somerſetſhire</hi> is raiſing two thouſand men to recruit the Army, part of which we are to receive to morrow, and hope for one thou<g ref="char:EOLhyphen"/>ſand and five hundred more out of <hi>Glouceſterſhire.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="list_of_articles_of_surrender">
+            <pb n="4" facs="tcp:158735:4"/>
+            <head>Articles of Agreement betweene the Commiſſioners appointed on the behalfe of his Highneſſe Prince RUPERT, and his Excellency Sir THOMAS FAIRFAX for the ſur<g ref="char:EOLhyphen"/>render of the City of <hi>Briſtol,</hi> 
+               <date>Septemb. 10. 1645.</date>
+            </head>
+            <list>
+               <item>THat his Highneſſe Prince <hi>Rupert,</hi> and all Noblemen, Commanders, Officers, Gentlemen, and Souldiers, and all other perſons whatſoever now reſiding in the City of <hi>Briſtoll,</hi> the Caſtle and Forts thereof, ſhall march out of the ſaid City, Caſtle, and Forts thereof, with Colours, Pikes and Drums, Bag and Baggage; the Prince his Highneſſe, all Noble<g ref="char:EOLhyphen"/>men, Gentlemen, and Officers in Commiſſion, with their Horſe and Armes, and their ſervants with their Horſes and Swords, and common ſouldiers with their Swords; the Prince his life<g ref="char:EOLhyphen"/>guard of Horſe with their Horſe and Armes, and 250. Horſe beſides to be diſpoſed of by the Prince, and his lifeguard of Fire<g ref="char:EOLhyphen"/>locks with their Armes, and each of them one pound of Powder and a proportion of Bullet, and that none of the perſons who are to march out upon this Article, ſhall be plundered, Search<g ref="char:EOLhyphen"/>ed, or Moleſted.</item>
+               <item>2 That ſuch Officers and Souldiers as ſhall be left ſick or woun<g ref="char:EOLhyphen"/>ed in the City, Caſtle or Forts, ſhall have liberty to ſtay till their recovery, and then have ſafe Conducts to goe to his Ma<g ref="char:EOLhyphen"/>jeſty, and in the interim to be protected.</item>
+               <pb n="5" facs="tcp:158735:4"/>
+               <item> 3 That the perſons above mentioned, who are to march away, ſhall have a ſufficient Convoy provided for them to any Garri<g ref="char:EOLhyphen"/>ſon of the Kings as the Prince ſhall name, not exceeding fifty miles from <hi>Briſtoll,</hi> and ſhall have eight dayes allowed for their march thither, and ſhall have free quarter by the way, and ſhall have two Officers to attend them for their accommodati<g ref="char:EOLhyphen"/>on, and twenty Waggons for their Baggage, if they ſhall have occaſion to uſe the ſame.</item>
+               <item>4 That all the Citizens of <hi>Briſtoll,</hi> and all Noblemen, Gentle<g ref="char:EOLhyphen"/>men, Clergy-men, and all other perſons reſiding in the ſaid City, and Suburbs of the ſame, ſhall be ſaved from all Plunder and violence, and be ſecured in their Perſons and Eſtates from the violence of the Souldier, and ſhall enjoy thoſe Rights and Liberties which other Subjects enjoy under the Protection and Obedience of the Parliament</item>
+               <item>5 That in conſideration hereof, the City of <hi>Briſtoll,</hi> with the Caſtle, and all other Forts and Fortifications thereof, without any ſleighting or defacing thereof, and all the Ordinance, Arms, Ammunition, and all other Furniture and Proviſions of War (excepting what is before allowed) ſhall be delivered up to Sir <hi>Thomas Fairfax</hi> to morrow being Thurſday the eleventh day of this inſtant September by one a clocke in the afternoon without any diminution or imbezelment. His Highneſſe Prince <hi>Rupert</hi> then naming to what Army or Garriſon of the Kings he will march.</item>
+               <item>6 That none of the perſons who are to march out on this agree<g ref="char:EOLhyphen"/>ment, ſhall plunder, hurt, or ſpoile the Towne, or any perſon in it, or carry out any thing but what is properly their owne.</item>
+               <item>7 That upon ſigning theſe Articles Colonell <hi>Okey</hi> and all
+<pb n="6" facs="tcp:158735:5"/>perſons now in priſon in the City of <hi>Briſtoll,</hi> the Caſtle or Forts of the ſame, ſhall immediately be ſet as liberty.</item>
+               <item>8 That ſufficient Hoſtages be given to Sir <hi>Thomas Fairfax</hi> (ſuch as he ſhall approve) this night, who are to remaine with him untill the City be delivered.</item>
+               <item>9 That neither the Convoy nor Officers ſent with the Prince ſhall receive any injury on their going or comming backe, and ſhall have ſeven dayes allowed for their returne.</item>
+               <item>10 That upon the delivery of the Towne ſufficient Hoſtages be given for performance of the Articles on both parts.</item>
+            </list>
+            <closer>
+               <signed>Singed by us the Commiſ<g ref="char:EOLhyphen"/>ſioners appointed on the behalfe of his Highneſſe Prince <hi>Rupert.</hi>
+                  <list>
+                     <item>Jo. Myn.</item>
+                     <item>Jo. Tilyer.</item>
+                     <item>W. Vavoſor.</item>
+                  </list>
+               </signed>
+               <signed>Signed by us the Commiſ<g ref="char:EOLhyphen"/>ſioners appointed on the behalf of His Excellency Sir <hi>Thomas Fairfax.</hi>
+                  <list>
+                     <item>Ed. Montague.</item>
+                     <item>Tho. Rainsborough.</item>
+                     <item>Jo. Pickering.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
